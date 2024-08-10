@@ -1,0 +1,9 @@
+Sentence,Direction,CheckpointName,Status,Type
+الكنتينر أزمة سالكة,North,Container,سالكة,حاجز
+جبع أزمة خانقة,South,Jabaa',خانقة,حاجز
+شارع الرئيس أزمة معتدلة,East,President Street,معتدلة,حاجز
+شارع الجامعة أزمة سالكة,West,University Street,سالكة,حاجز
+الطريق السريع أزمة خانقة,North,Highway,خانقة,حاجز
+زعترة أزمة سالكة,South,Zaatra,سالكة,حاجز
+شارع التحرير أزمة خانقة,East,Liberation Street,خانقة,حاجز
+عناب مغلق,بالاتجاهين,عناب,مغلق,حاجز
